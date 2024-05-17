@@ -141,3 +141,19 @@
 </body>
 
 </html>
+
+<script>
+  Telegram.WebApp.onEvent('popupClosed', function(eventData) {
+  // eventData.button_id will contain the id of the button that was pressed to close the popup.
+  // If no button was pressed and the popup was closed another way, button_id will be null.
+
+  if (eventData.button_id) {
+    console.log('Popup closed with button id:', eventData.button_id);
+    // Handle the event when a button with a specific id closes the popup
+  } else {
+    console.log('Popup closed without button press');
+    // Handle the event when the popup is closed without pressing any buttons
+  }
+});
+
+</script>
