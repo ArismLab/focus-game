@@ -53,7 +53,7 @@ Welcome to the official roadmap for [Focus Bear]. This document outlines the key
 - **Beta Version Enhancements**
   - Advanced gameplay features and levels:
   - **Boss limited time event**: Tapping to defeat boss getting BEAR rewards
-  - T: Hosting token, NFTs special event Launchpad
+  - To be reconsidered: Hosting token, NFTs special event Launchpad
   
 - **Partnerships and Collaborations**
   - Establish partnerships with other blockchain projects, NFTs Collection
