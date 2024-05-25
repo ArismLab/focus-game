@@ -18,7 +18,7 @@ Welcome to the official roadmap for [Focus Bear]. This document outlines the key
 
 ---
 
-## Q2 2024 - Testnet Launch: Alpha Release
+## Q2-1 2024 - Testnet Launch: Alpha Release
 - **Alpha Version Development**
   - Basic gameplay mechanics implementation
     - **LEVEL**: Starting at level 1 having 5 maxPoints, claim NFTs to increase, level up to increase.
@@ -47,6 +47,60 @@ Welcome to the official roadmap for [Focus Bear]. This document outlines the key
   - Launch website and social media channels
   - Community engagement and feedback collection
   - Initial marketing campaigns
+---
+
+## Q2-2 2024 - Mainnet Launch: Official Launch
+- **Beta Version Enhancements**
+  - Advanced gameplay features and levels:
+  - **Boss limited time event**: Tapping to defeat boss getting BEAR rewards
+  - T: Hosting token, NFTs special event Launchpad
+  
+- **Partnerships and Collaborations**
+  - Establish partnerships with other blockchain projects, NFTs Collection
+  - Collaborate with influencers
+  - Expand marketing efforts
+  
+- **Final Preparations**
+  - Finalize all game features and mechanics
+  - Complete thorough security audits
+  - Optimize smart contracts for mainnet deployment
+
+- **Mainnet Launch**
+  - Launch date: June 16th, 2024 (TBE)
+  - Deploy smart contracts on the mainnet
+  - Launch the full version of the game
+  - Execute extensive marketing campaign
+
+- **Post-Launch Activities**
+  - Monitor and support initial launch phase
+  - Address any immediate issues and bugs
+  - Plan for future updates and expansions
+
+---
+
+## Q3-2024 and Beyond - Future Plans
+- **Continuous Improvement**
+  - Regular content updates and new features
+  - Expand game universe, new events, collabration with other application, NFTs Collection
+  - Introduce new NFT assets and collectibles 
+
+- **Community Engagement**
+  - Continue to collect and act on user feedback
+  - Strengthen community governance and involvement
+
+- **Long-Term Vision**
+  - Explore multi-chain integration
+  - Expand ecosystem with additional GameFi projects
+  - Aim for mass adoption and mainstream recognition
+
+---
+
+## Conclusion
+We are excited to bring [Focus Bear] to life and revolutionize the gaming industry with blockchain technology. Your support and feedback are invaluable as we embark on this journey. Stay tuned for regular updates and join us as we build the future of GameFi.
+
+---
+
+*Note: This roadmap is subject to change based on project developments and community feedback.*
 
 
 
