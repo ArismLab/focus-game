@@ -8,6 +8,8 @@
   <link rel="shortcut icon" href="TemplateData/favicon.ico">
   <link rel="stylesheet" href="TemplateData/style.css">
   <script src="https://telegram.org/js/telegram-web-app.js"></script>
+  <script src="./Telegram/telegram.js"></script>
+
   <style>
     body, html {
       height: 100%;
@@ -22,7 +24,7 @@
 
     #unity-container {
       width: 100vw; /* Fill the viewport width */
-      max-width: 400px; 
+      max-width: 420px; 
       height: 100vh; /* Fill the viewport height */
       display: flex;
       justify-content: center;
@@ -142,18 +144,5 @@
 
 </html>
 
-<script>
-  Telegram.WebApp.onEvent('popupClosed', function(eventData) {
-  // eventData.button_id will contain the id of the button that was pressed to close the popup.
-  // If no button was pressed and the popup was closed another way, button_id will be null.
 
-  if (eventData.button_id) {
-    console.log('Popup closed with button id:', eventData.button_id);
-    // Handle the event when a button with a specific id closes the popup
-  } else {
-    console.log('Popup closed without button press');
-    // Handle the event when the popup is closed without pressing any buttons
-  }
-});
 
-</script>
